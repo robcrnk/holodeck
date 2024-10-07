@@ -1,0 +1,47 @@
+Sauvegarde réussie : ~/backup/db_backup_20240924_164202.sql
+Nombre total de sauvegardes trouvées : 1
+Aucune sauvegarde à supprimer.
+Sauvegarde réussie : ~/backup/db_backup_20240924_164301.sql
+Nombre total de sauvegardes trouvées : 2
+Aucune sauvegarde à supprimer.
+Sauvegarde réussie : ~/backup/db_backup_20240924_164401.sql
+Nombre total de sauvegardes trouvées : 3
+Aucune sauvegarde à supprimer.
+Sauvegarde réussie : ~/backup/db_backup_20240924_164501.sql
+Nombre total de sauvegardes trouvées : 4
+Aucune sauvegarde à supprimer.
+Sauvegarde réussie : ~/backup/db_backup_20240924_164601.sql
+Nombre total de sauvegardes trouvées : 5
+Aucune sauvegarde à supprimer.
+Sauvegarde réussie : ~/backup/db_backup_20240924_164701.sql
+Nombre total de sauvegardes trouvées : 6
+Aucune sauvegarde à supprimer.
+Sauvegarde réussie : ~/backup/db_backup_20240924_164801.sql
+Nombre total de sauvegardes trouvées : 7
+Aucune sauvegarde à supprimer.
+Sauvegarde réussie : ~/backup/db_backup_20240924_164901.sql
+Nombre total de sauvegardes trouvées : 8
+Suppression de la sauvegarde : /home/monitor/backup/db_backup_20240924_164202.sql
+Sauvegarde réussie : ~/backup/db_backup_20240924_165001.sql
+Nombre total de sauvegardes trouvées : 8
+Suppression de la sauvegarde : /home/monitor/backup/db_backup_20240924_164301.sql
+Sauvegarde réussie : ~/backup/db_backup_20240925_120002.sql
+Nombre total de sauvegardes trouvées : 1
+Aucune sauvegarde à supprimer.
+Sauvegarde réussie : ~/backup/db_backup_20240925_150001.sql
+Nombre total de sauvegardes trouvées : 2
+Aucune sauvegarde à supprimer.
+Erreur lors de la sauvegarde de la base de données : [Errno 110] Connection timed out
+Erreur lors de la suppression des anciennes sauvegardes : [Errno None] Unable to connect to port 22 on 192.168.57.131
+Sauvegarde réussie : ~/backup/db_backup_20240926_150001.sql
+Nombre total de sauvegardes trouvées : 3
+Aucune sauvegarde à supprimer.
+Sauvegarde réussie : ~/backup/db_backup_20240930_150001.sql
+Nombre total de sauvegardes trouvées : 4
+Aucune sauvegarde à supprimer.
+Sauvegarde réussie : ~/backup/db_backup_20241001_120001.sql
+Nombre total de sauvegardes trouvées : 5
+Aucune sauvegarde à supprimer.
+Sauvegarde réussie : ~/backup/db_backup_20241003_150001.sql
+Nombre total de sauvegardes trouvées : 7
+Aucune sauvegarde à supprimer.

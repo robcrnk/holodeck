@@ -1,0 +1,2715 @@
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.83022774327122, DISK=10.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.131
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=25.0, RAM=17.339544513457557, DISK=9.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=62.47412008281573, DISK=32.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=29.037267080745345, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=14.3, RAM=17.391304347826086, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=62.47412008281573, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.244306418219463, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.391304347826086, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=62.47412008281573, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=29.244306418219463, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.391304347826086, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=62.52587991718427, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.36438923395445, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.391304347826086, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=62.577639751552795, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.416149068322984, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=62.629399585921334, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.6231884057971, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=62.629399585921334, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.88198757763975, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.563146997929607, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=62.629399585921334, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.08902691511387, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=25.0, RAM=16.61490683229814, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=62.629399585921334, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.08902691511387, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.77018633540373, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=58.69565217391305, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.08902691511387, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.77018633540373, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=58.69565217391305, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.1407867494824, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=10.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=58.69565217391305, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.1407867494824, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.28778467908903, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=58.74741200828157, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.19254658385093, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.339544513457557, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=58.74741200828157, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.347826086956523, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.391304347826086, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=58.74741200828157, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.554865424430645, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.546583850931675, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=58.90269151138716, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=25.0, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.546583850931675, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=58.90269151138716, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.83022774327122, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.511387163561075, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=58.90269151138716, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=26.60455486542443, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=12.5, RAM=15.424430641821946, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=44.87577639751553, DISK=33.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.93374741200828, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=15.527950310559005, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=42.339544513457554, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.985507246376812, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=14.3, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=42.9, RAM=43.99585921325052, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.45134575569358, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.61490683229814, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=44.97929606625259, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=25.0, RAM=29.6583850931677, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.61490683229814, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=57.1, RAM=44.3064182194617, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Erreur lors de la récupération des ressources système depuis 192.168.57.131 : could not convert string to float: 'ut.'
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=16.61490683229814, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=40.0, RAM=44.565217391304344, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.95031055900621, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.443064182194618, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=56.57349896480331, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=25.0, RAM=28.1055900621118, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.546583850931675, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=58.22981366459628, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.639751552795033, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.805383022774325, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=56.36645962732919, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.05383022774327, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=20.0, RAM=17.857142857142858, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=56.36645962732919, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.1055900621118, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.805383022774325, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=56.36645962732919, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.31262939958592, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.805383022774325, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=56.78053830227743, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.31262939958592, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.184265010351968, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=56.78053830227743, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=25.0, RAM=28.05383022774327, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : [Errno None] Unable to connect to port 22 on 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.26086956521739, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : [Errno None] Unable to connect to port 22 on 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.31262939958592, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : [Errno None] Unable to connect to port 22 on 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=7.1, RAM=28.57142857142857, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : [Errno None] Unable to connect to port 22 on 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.6231884057971, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : [Errno None] Unable to connect to port 22 on 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.88198757763975, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : [Errno None] Unable to connect to port 22 on 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.88198757763975, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : [Errno None] Unable to connect to port 22 on 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.00207039337474, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=60.0, RAM=42.96066252587992, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=45.08281573498965, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=44.616977225672876, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.26086956521739, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=20.0, RAM=45.289855072463766, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.467908902691512, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=44.72049689440994, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.606625258799173, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=44.51345755693582, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=8.3, RAM=28.57142857142857, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=75.0, RAM=44.77225672877847, DISK=32.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.674948240165634, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=16.7, RAM=44.51345755693582, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.536231884057973, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=40.0, RAM=44.565217391304344, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.795031055900623, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=44.77225672877847, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.1055900621118, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=45.08281573498965, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.795031055900623, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=14.3, RAM=44.51345755693582, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.88198757763975, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=44.927536231884055, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.93374741200828, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.985507246376812, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=44.824016563147, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=29.08902691511387, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=49.68944099378882, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Erreur lors de la récupération des ressources système depuis 192.168.57.131 : could not convert string to float: 'ut.'
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=60.0, RAM=49.378881987577635, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.467908902691512, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=42.9, RAM=50.051759834368525, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.6231884057971, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=57.7639751552795, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.674948240165634, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=56.83229813664597, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.83022774327122, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=57.091097308488614, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=25.0, RAM=29.08902691511387, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=58.74741200828157, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.037267080745345, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=57.66045548654244, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.037267080745345, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : Bad authentication type; allowed types: ['publickey']
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.1407867494824, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=58.126293995859214, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=29.1407867494824, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=62.577639751552795, DISK=32.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.1407867494824, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=62.68115942028986, DISK=27.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=20.0, RAM=29.1407867494824, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=15.4, RAM=20.54865424430642, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=29.19254658385093, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.96273291925466, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.19254658385093, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=29.39958592132505, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : [Errno None] Unable to connect to port 22 on 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=11.1, RAM=28.157349896480333, DISK=10.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Traceback (most recent call last):
+  File "/root/ssh_system_mail.py", line 143, in <module>
+    delete_old_data()
+  File "/root/ssh_system_mail.py", line 133, in delete_old_data
+    cursor.execute("DELETE FROM sys_res WHERE timestamp < %s", (cutoff,))
+  File "/root/monenv/lib/python3.11/site-packages/mariadb/cursors.py", line 313, in execute
+    self._execute_binary()
+mariadb.InterfaceError: Lost connection to server during query
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.12215320910973, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=16.7, RAM=16.511387163561075, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.202898550724637, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.519668737060037, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=20.0, RAM=16.925465838509314, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=20.0, RAM=21.325051759834366, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.778467908902694, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=16.045548654244307, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.652173913043477, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.83022774327122, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.045548654244307, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=20.755693581780537, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.83022774327122, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.097308488612835, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.755693581780537, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=24.948240165631468, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=16.7, RAM=15.062111801242237, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=18.426501035196686, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.639751552795033, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.252587991718425, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=60.0, RAM=19.151138716356108, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.26086956521739, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.35610766045549, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=42.9, RAM=19.40993788819876, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.467908902691512, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=16.35610766045549, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=18.944099378881987, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.416149068322984, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=20.0, RAM=16.61490683229814, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.202898550724637, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.416149068322984, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.02898550724638, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=19.25465838509317, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.416149068322984, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.02898550724638, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.565217391304348, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.416149068322984, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=16.7, RAM=17.28778467908903, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.616977225672876, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.70186335403727, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.616977225672876, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.753623188405797, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.66873706004141, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.857142857142858, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.66873706004141, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.6231884057971, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=18.115942028985508, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=60.0, RAM=19.72049689440994, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.83022774327122, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=18.219461697722565, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.72049689440994, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.83022774327122, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.132505175983436, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=75.0, RAM=19.772256728778466, DISK=25.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.88198757763975, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.339544513457557, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.772256728778466, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.74327122153209, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=19.772256728778466, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=27.74327122153209, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.650103519668736, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.824016563146998, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.95031055900621, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.875776397515526, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.95031055900621, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.753623188405797, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.157349896480333, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=25.0, RAM=17.753623188405797, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=18.892339544513455, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.157349896480333, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.753623188405797, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=18.944099378881987, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.57142857142857, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.805383022774325, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.6231884057971, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.77018633540373, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=18.633540372670808, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.6231884057971, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.977225672877847, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.099378881987576, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.6231884057971, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.02898550724638, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=80.0, RAM=19.358178053830226, DISK=25.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.40993788819876, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.93374741200828, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.66873706004141, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=25.0, RAM=28.93374741200828, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.202898550724637, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.39958592132505, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.132505175983436, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.25465838509317, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=29.503105590062113, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.132505175983436, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.306418219461698, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=29.91718426501035, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=25.0, RAM=17.339544513457557, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.616977225672876, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.985507246376812, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.339544513457557, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=19.616977225672876, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.39958592132505, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.66873706004141, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.26086956521739, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.70186335403727, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.66873706004141, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.57142857142857, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.70186335403727, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=60.0, RAM=19.66873706004141, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.05383022774327, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.70186335403727, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=21.583850931677016, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.05383022774327, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.70186335403727, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=40.0, RAM=21.73913043478261, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.36438923395445, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.70186335403727, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=12.5, RAM=21.842650103519667, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.05383022774327, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.70186335403727, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=60.0, RAM=21.22153209109731, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.84679089026915, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.70186335403727, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=20.54865424430642, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.778467908902694, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.70186335403727, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.910973084886127, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=27.84679089026915, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.511387163561075, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=75.0, RAM=20.96273291925466, DISK=25.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.1055900621118, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.821946169772257, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=21.014492753623188, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=20.0, RAM=28.88198757763975, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.02898550724638, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=21.11801242236025, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.416149068322984, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=71.4, RAM=21.11801242236025, DISK=25.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.6231884057971, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=66.7, RAM=17.132505175983436, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=21.11801242236025, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.6231884057971, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.132505175983436, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=21.11801242236025, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=27.74327122153209, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.236024844720497, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=21.11801242236025, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.84679089026915, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.391304347826086, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=21.11801242236025, DISK=25.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=20.0, RAM=25.10351966873706, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=11.1, RAM=15.062111801242237, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=10.0, RAM=19.047619047619047, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=11.1, RAM=27.639751552795033, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.35610766045549, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=12.5, RAM=21.11801242236025, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=14.3, RAM=28.05383022774327, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=12.5, RAM=16.563146997929607, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=21.48033126293996, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.00207039337474, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=16.61490683229814, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=57.1, RAM=21.8944099378882, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=25.0, RAM=28.00207039337474, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=21.3768115942029, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.26086956521739, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.718426501035196, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=20.39337474120083, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.778467908902694, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.718426501035196, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=20.600414078674948, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.88198757763975, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=16.77018633540373, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=21.22153209109731, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.985507246376812, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.184265010351968, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.416149068322984, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.236024844720497, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.652173913043477, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.39958592132505, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.28778467908903, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=20.652173913043477, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.1055900621118, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.28778467908903, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=37.5, RAM=22.15320910973085, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.416149068322984, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.339544513457557, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=22.308488612836438, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.6231884057971, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.304347826086957, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=22.2, RAM=20.445134575569355, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=29.244306418219463, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.459627329192546, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=40.0, RAM=20.652173913043477, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.244306418219463, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.511387163561075, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=21.3768115942029, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.296066252587995, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.563146997929607, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.54865424430642, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.26086956521739, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=66.7, RAM=16.718426501035196, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.910973084886127, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.26086956521739, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.718426501035196, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=20.910973084886127, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=16.718426501035196, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=21.27329192546584, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.726708074534162, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.600414078674948, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.726708074534162, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=25.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=20.755693581780537, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.726708074534162, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.70393374741201, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.726708074534162, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.910973084886127, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.726708074534162, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.236024844720497, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=75.0, RAM=20.910973084886127, DISK=26.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.93374741200828, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.28778467908903, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=21.014492753623188, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=25.0, RAM=28.93374741200828, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.02898550724638, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=21.014492753623188, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.037267080745345, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=21.014492753623188, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.84679089026915, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.184265010351968, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=21.014492753623188, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=27.898550724637683, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.391304347826086, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=21.06625258799172, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.157349896480333, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.650103519668736, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=21.11801242236025, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.26086956521739, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.857142857142858, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=21.11801242236025, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.6231884057971, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.96066252587992, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.69151138716356, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.96066252587992, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=21.325051759834366, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.84679089026915, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.184265010351968, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=21.325051759834366, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.05383022774327, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.236024844720497, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=21.325051759834366, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.1055900621118, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=20.600414078674948, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=16.7, RAM=17.650103519668736, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=20.755693581780537, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.753623188405797, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.96273291925466, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.88198757763975, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.805383022774325, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.96273291925466, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.88198757763975, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=18.012422360248447, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=20.96273291925466, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=29.1407867494824, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.925465838509314, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=21.169772256728777, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.1407867494824, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.339544513457557, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=21.22153209109731, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.05383022774327, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.339544513457557, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=21.27329192546584, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.26086956521739, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.339544513457557, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=21.48033126293996, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.467908902691512, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.339544513457557, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=20.496894409937887, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.467908902691512, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.391304347826086, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.600414078674948, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.391304347826086, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=20.80745341614907, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=21.014492753623188, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.08902691511387, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=21.06625258799172, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=29.296066252587995, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=21.27329192546584, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.157349896480333, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=20.70393374741201, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.70393374741201, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.416149068322984, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.80745341614907, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.57142857142857, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.80745341614907, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.57142857142857, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=60.0, RAM=20.96273291925466, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.778467908902694, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.546583850931675, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=21.22153209109731, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.83022774327122, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.546583850931675, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=21.325051759834366, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=27.795031055900623, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.600414078674948, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.00207039337474, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=20.70393374741201, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.598343685300208, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.70393374741201, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.650103519668736, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=20.755693581780537, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.416149068322984, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.650103519668736, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.80745341614907, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Erreur de connexion à MariaDB : Can't connect to server on '192.168.57.131' (115)
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=27.84679089026915, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=15.683229813664596, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=19.51345755693582, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.05383022774327, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=25.0, RAM=16.097308488612835, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.92753623188406, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.674948240165634, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.252587991718425, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.979296066252587, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.726708074534162, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.459627329192546, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=19.979296066252587, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.74327122153209, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.459627329192546, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.40993788819876, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=27.95031055900621, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.459627329192546, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.157349896480333, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.511387163561075, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=15.4, RAM=19.875776397515526, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.157349896480333, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.563146997929607, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.92753623188406, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.61490683229814, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.92753623188406, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.157349896480333, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=16.61490683229814, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=40.0, RAM=20.082815734989648, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.157349896480333, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.61490683229814, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.51345755693582, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.157349896480333, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=19.72049689440994, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.467908902691512, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.92753623188406, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.467908902691512, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.031055900621116, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.726708074534162, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.979296066252587, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.778467908902694, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=20.13457556935818, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.83022774327122, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.132505175983436, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.358178053830226, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.08902691511387, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.132505175983436, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.772256728778466, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=29.296066252587995, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.184265010351968, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.05383022774327, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.339544513457557, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=60.0, RAM=20.082815734989648, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.1055900621118, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.650103519668736, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.082815734989648, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.36438923395445, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.650103519668736, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.238095238095237, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.57142857142857, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=16.718426501035196, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.616977225672876, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.57142857142857, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.925465838509314, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=75.0, RAM=20.082815734989648, DISK=26.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.778467908902694, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.925465838509314, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.28985507246377, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.778467908902694, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=16.925465838509314, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.66873706004141, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=27.84679089026915, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.925465838509314, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=19.824016563146998, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.898550724637683, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.925465838509314, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.082815734989648, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.157349896480333, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.02898550724638, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.977225672877847, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.082815734989648, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.26086956521739, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.02898550724638, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=19.25465838509317, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.519668737060037, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=17.02898550724638, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.66873706004141, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=25.0, RAM=28.6231884057971, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.02898550724638, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=75.0, RAM=19.66873706004141, DISK=26.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.778467908902694, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.080745341614907, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.772256728778466, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.778467908902694, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.184265010351968, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.778467908902694, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.391304347826086, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.824016563146998, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.985507246376812, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=14.3, RAM=17.443064182194618, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.875776397515526, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.985507246376812, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.443064182194618, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.875776397515526, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=29.08902691511387, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.979296066252587, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.157349896480333, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=16.459627329192546, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.13457556935818, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=25.0, RAM=16.563146997929607, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=20.39337474120083, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.467908902691512, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.616977225672876, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.57142857142857, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=19.72049689440994, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.57142857142857, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=19.772256728778466, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.778467908902694, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=16.925465838509314, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=20.13457556935818, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.74327122153209, DISK=10.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.925465838509314, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=20.13457556935818, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=14.3, RAM=26.759834368530022, DISK=11.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=22.2, RAM=19.047619047619047, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=6.7, RAM=27.173913043478258, DISK=11.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=23.1, RAM=19.306418219461698, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=27.277432712215322, DISK=11.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.40993788819876, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=27.22567287784679, DISK=11.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.565217391304348, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.432712215320908, DISK=11.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=19.772256728778466, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.432712215320908, DISK=11.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=16.7, RAM=19.772256728778466, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.1055900621118, DISK=11.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.875776397515526, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=27.639751552795033, DISK=11.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.92753623188406, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.84679089026915, DISK=11.0
+Erreur lors de la récupération des ressources système depuis 192.168.57.130 : [Errno None] Unable to connect to port 22 on 192.168.57.130
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=19.66873706004141, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.88198757763975, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.200828157349896, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.082815734989648, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.08902691511387, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.304347826086957, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.13457556935818, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.1407867494824, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=16.7, RAM=17.132505175983436, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=15.4, RAM=19.51345755693582, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.19254658385093, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.339544513457557, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=25.0, RAM=19.772256728778466, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=25.0, RAM=28.209109730848862, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=14.3, RAM=17.391304347826086, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=20.0, RAM=20.18633540372671, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.36438923395445, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=20.0, RAM=19.40993788819876, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.57142857142857, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.443064182194618, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=19.51345755693582, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=50.0, RAM=28.57142857142857, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.565217391304348, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.985507246376812, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.66873706004141, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.985507246376812, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=75.0, RAM=19.72049689440994, DISK=26.0
+Email d'alerte envoyé à robin.mahu@laplateforme.io pour 192.168.57.129
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.985507246376812, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.92753623188406, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.985507246376812, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=20.031055900621116, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.985507246376812, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=20.0, RAM=17.494824016563147, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.031055900621116, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.19254658385093, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=50.0, RAM=16.304347826086957, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=20.341614906832298, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.244306418219463, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.35610766045549, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.92753623188406, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.36438923395445, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.61490683229814, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=40.0, RAM=20.082815734989648, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.674948240165634, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=20.082815734989648, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=29.037267080745345, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=40.0, RAM=20.13457556935818, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.1055900621118, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=20.341614906832298, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=20.54865424430642, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=19.772256728778466, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.824016563146998, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.209109730848862, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.666666666666664, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.979296066252587, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.416149068322984, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=16.925465838509314, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=0.0, RAM=20.39337474120083, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=28.416149068322984, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.02898550724638, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.565217391304348, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.674948240165634, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=33.3, RAM=17.184265010351968, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Erreur lors de la récupération des ressources système depuis 192.168.57.129 : could not convert string to float: 'ut.'
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=33.3, RAM=28.88198757763975, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=17.236024844720497, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=50.0, RAM=19.824016563146998, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=20.0, RAM=27.536231884057973, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=12.5, RAM=15.113871635610765, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=33.3, RAM=19.099378881987576, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
+Connexion à MariaDB réussie
+Table sys_res vérifiée/créée
+Connexion SSH réussie à 192.168.57.131
+Données insérées pour 192.168.57.131 : CPU=0.0, RAM=27.74327122153209, DISK=11.0
+Connexion SSH réussie à 192.168.57.130
+Données insérées pour 192.168.57.130 : CPU=0.0, RAM=15.579710144927535, DISK=9.0
+Connexion SSH réussie à 192.168.57.129
+Données insérées pour 192.168.57.129 : CPU=66.7, RAM=19.202898550724637, DISK=26.0
+Données de plus de 72 heures supprimées
+Connexion à la base de données fermée
